@@ -118,7 +118,7 @@ void PhoneBook::searchContact(void)
               << "|" << std::endl;
 
     // Print separator under header
-    std::cout << std::setfill('-') << std::setw(97) << "-" << std::setfill(' ') << std::endl;
+    std::cout << std::setfill('-') << std::setw(56) << "-" << std::setfill(' ') << std::endl;
 
     // Print contacts
     for (int i = 0; i < 8; i++) {
