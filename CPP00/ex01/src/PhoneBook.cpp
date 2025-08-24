@@ -3,7 +3,7 @@
 // Constructor
 PhoneBook::PhoneBook(void)
 {
-	_index = 0; // might delete
+	_index = 0; // might delete?
 }
 // Destructor
 PhoneBook::~PhoneBook(void)
